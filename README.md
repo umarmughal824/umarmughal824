@@ -10,6 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrumarasghar@gmail.com, [LinkedIn](https://www.linkedin.com/in/imumar/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![Umar's github stats](https://github-readme-stats.vercel.app/api?username=umarmughal824&show_icons=true&theme=radical)
