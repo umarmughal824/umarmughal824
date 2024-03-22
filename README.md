@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python and JS
+- 🔭 I’m currently working on Python and Javascript
 - 🌱 I’m currently learning Artifical Intelligence
 - 👯 I’m looking to collaborate on Python, Artificial Intelligence and the latest technologies
 - 🤔 I’m looking for help with ...
